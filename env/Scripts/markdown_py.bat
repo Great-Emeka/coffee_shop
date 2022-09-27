@@ -1,0 +1,1 @@
+@"C:\Users\matthewpreciouschika\Desktop\FSND\env\Scripts\python.exe" "C:\Users\matthewpreciouschika\Desktop\FSND\env\Scripts\markdown_py" %*
